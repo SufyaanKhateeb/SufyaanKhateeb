@@ -4,27 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufyaankhateeb" alt="sufyaankhateeb" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sufyaankhateeb" target="blank"><img src="https://img.shields.io/twitter/follow/sufyaankhateeb?logo=twitter&style=for-the-badge" alt="sufyaankhateeb" /></a> </p>
-
 - 🌱 I’m currently learning **Web development**
 
 - 💬 Ask me about **c, c++, Java**
 
 - 📫 How to reach me **Sufyaankhateeb@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://twitter.com/sufyaankhateeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="sufyaankhateeb" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/sufyaan khateeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="sufyaan khateeb" height="30" width="40" /></a>
-
-<a href="https://fb.com/sufyaan khateeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="sufyaan khateeb" height="30" width="40" /></a>
-
-<a href="https://instagram.com/sk_forlife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="sk_forlife" height="30" width="40" /></a>
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
